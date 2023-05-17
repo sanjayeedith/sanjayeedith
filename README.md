@@ -1,4 +1,4 @@
-![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/sanjayeedith/SANJAY/assets/109469901/6d590eb1-6858-4223-9774-865d092a21b2)
+![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/sanjayeedith/sanjayeedith/assets/109469901/03f85452-c064-4057-a9b0-cb01b34b677c)
 # 💫 About Me:
 🔭 I’m currently pursuing B.Tech in Artificial Intelligence & ML.<br>⚡ Success in creating AI would be the biggest <br>      event in human history.<br>🔥Success in creating AI would be the biggest event <br>     in human history.
 
