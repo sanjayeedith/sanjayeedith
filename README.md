@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sanjayrameshkumar.software/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/globe.svg" alt="Personal Website" height="30" width="40" /></a>
+<a href="https://sanjayrameshkumar.software/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" alt="Personal Website" height="30" width="40" /></a>
 <a href="https://twitter.com/https://x.com/sanjusnehar?t=4eueowngmx1kf2eccvpwta&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sanjusnehar?t=4eueowngmx1kf2eccvpwta&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjay-ramesh-kumar-580569215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjay-ramesh-kumar-580569215/" height="30" width="40" /></a>
 <a href="https://medium.com/@sanjay_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjay_r" height="30" width="40" /></a>
